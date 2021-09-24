@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-24T06:36:19+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///D:/Desktop/krasnodprimorskiy.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./krasnodprimorskiy.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:fe0f7349-9689-423f-9511-403a7dc0422b</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">66</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1855"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2511"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="2560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="2822"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="3306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="3750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="5640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="6300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="7450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="8500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="9520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="9525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="11706"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="12077"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="13184"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="15290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="15300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="16800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="19332"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="19570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="21500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="21600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="24410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="24444"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="24799"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="24900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="31325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="33200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="35720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="35840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="40600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="41202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="45131"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="45440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="47840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="48670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="50310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="51440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="58623"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="58624"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="59213"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="59965"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="62010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="62060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="67735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="68465"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="69315"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="69560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="73040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="74200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="87893"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="89250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="90363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="90371"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="94145"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="95066"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="103997"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="104386"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="105755"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="105990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="107005"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="108710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="120000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="KonstantinSatdarov" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@i1980f" TIER_ID="text@i1980f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>здравствуйте! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>меня зовут Ирина //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>я хочу у вас взять интервью //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>как вас зовут? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>очень приятно / Валентина #нрзб# Григорьевна // как вас зовут? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Вера Григорьевна / очень хорошо //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>вы являетесь местными жителями / правильно? / вы родились именно в Темрюкском районе //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>вооот родились в Пр... Приморском именно / нууу расскажите пожалуйста о себе / вот кто с... от... сэ... с вас начнёт о себе рассказывать? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ну где... ну вот вообще / когда вы родились? в каком году? / ну вообще о себе расскажите //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>#слушая дополнительного говорящего# да / вы же во время войны... вот к... сколько вам было когда война началась? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>мхм //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>ну вот что? / что помните? / расскажите... да расскажите вот... вот как вам... жилось нелегко / в то время //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>папа вернулся с фронта? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="KonstantinSatdarov" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@veg1935f" TIER_ID="text@veg1935f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>здравствуйте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>а я Вера Григорьевна #смеётся# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>#смеётся#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>сорок первый год //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Оля знает Любе... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="KonstantinSatdarov" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@vag1938f" TIER_ID="text@vag1938f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>#одновре#нрзб# здрасьте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Валентина Григорьевна //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>да вот а... /  в Приморском родились #смеётся# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>ой господи / а чё бы / рассказывать? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>нуу сколько / я тридцать восьмого года //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>а... с...сколько было? / три года... / нас... выслали туда / в Крым / это мне уже было пять годиков //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ну п... кое-что помню так а так //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>нууу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>к...куда ж там э... легко / прыихали нэма нигде ничого //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>и с... и стен нету / землянки по...вырыли и там в землянках... / ну...  у нас четверо было у меня три брата было / и я одна / четверо / и  мама / а... папа был на фронте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>папа вернулся но уже... / а...аж в сорок седьмом году //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>в плену где-то там был и в этот... и вот... отстраивали Москву Люберцы! / где это город Люберцы сейчас вот там? / в Московской области да? / вот он там строил... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>#слушая дополнительного говорящего# я же говорю: в Московской области да / и оттуд... а оттуда он уже прыихав в сорок седьмом году с войны / и тут работал плотником / немцы научили в плену плотничать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="KonstantinSatdarov" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@i1980f"
+        PARTICIPANT="@i1980f" TIER_ID="trans@i1980f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Hello!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>My name is Irina.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>I would like to take an interview of you.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>What is your name?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Pleased to meet you, Valentina #inaudible# Grigoryevna. What is your name?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Vera Grigoryevna. Very nice!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>You are locals, right? It was in Temryukskiy district that you were born.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Okay, you were born exactly in Pr... Primorskiy district. So, tell about yourself, please. Who of you would like to begin telling about yourself?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Well, just in general. When were you born? Just tell about yourself.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>#listening to an extra speaker# Yes, during the war you... How old were you when the war (WWII) started?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>Okay.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>What is this? What do you remember? Tell me... Yes, tell me about your hard life that time.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>Did your father come back from the front?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="KonstantinSatdarov" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@vag1938f"
+        PARTICIPANT="@vag1938f" TIER_ID="trans@vag1938f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>#inaudible# Hello.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Valentina Grigoryevna.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>Well um, we were born in Primorskiy district. #laughs#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Oh, goodness, what to tell?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>How old... I was born in 1938.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>How old was I? Three years... We were sent to Crimea, and I was already five years old.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>Well, I remember just a bit, but the rest is vague.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>Well...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>That was immensely hard for sure. We went there (to Crimea) having nothing and no place to stay.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>Even... Even no walls. Just some mud huts dug to stay in. Oh, there were four of us, children: my three brothers and I. Our mum was with us. My dad was at the front.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>Dad did come back but only in 1947.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>He was in the captivity, and then... The reconstruction of Moscow and Lyubertsy! Where's this city? In Moscow region, right? So dad was involved in this reconsctruction...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>#listening to an extra speaker#Yes, like i said: in Moscow region. He came back from there in 1947 and began working as a carpenter. Germans had taught him carpentry in the captivity.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="KonstantinSatdarov" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@veg1935f"
+        PARTICIPANT="@veg1935f" TIER_ID="trans@veg1935f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Hello/.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>I'm Vera Grigoryevna. #laughs#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>yes //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>#laughs#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>Year 1941.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>Olya knows Lyubertsy. #interrupted#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_9b8bf7f7-5044-4d9a-9c97-dffc6b13726f">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8a918046-bffd-4501-97d7-1c657aab2a5c">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e196561a-1263-47e4-a1c1-c3f9c79f58c8">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9183579e-92c1-45b7-9406-e42fd9f4d236">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_adc49c58-f391-4790-9623-d2d8150f51a7">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_60006b61-eee6-4720-91f2-fa79598e2f46">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_eb1e7433-7441-460d-9e59-a3aa6bbab60e">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f76fcddd-7620-4f55-b7b3-cb6ebf5bfc43">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1bbb1a8f-2c6c-4634-ba45-c7ea08c9f0f7">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_522384cf-7b12-4479-8225-650afb4ca15a">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f9ba4ecd-4ce5-4e1d-82c1-aaa83b02ab25">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e2588bd0-514e-4474-b6a6-d064440a33c1">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cfcc87b7-6c6a-42ba-b73b-42d72737dcde">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_b411bd28-9168-4b25-8d39-e5b8541c1df9">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_10e956a2-c2ae-43b0-8a87-f2e976964e9e">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5e7aeffe-53ae-4a3a-b123-ec939d04b89b">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_35f9605e-88e1-47c4-975d-26094bdd466c">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
